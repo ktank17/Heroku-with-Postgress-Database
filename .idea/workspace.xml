@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76db96c1-1267-4d54-bb65-56e5cdff0054" name="Default Changelist" comment="" />
+    <list default="true" id="76db96c1-1267-4d54-bb65-56e5cdff0054" name="Default Changelist" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,12 +44,35 @@
       <updated>1601936722629</updated>
       <workItem from="1601936725068" duration="568000" />
       <workItem from="1601937377515" duration="754000" />
-      <workItem from="1601940985943" duration="490000" />
+      <workItem from="1601940985943" duration="792000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1601941623094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601941623094</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1259" height="147" key="GridCell.Tab.0.bottom" timestamp="1601939082115">
