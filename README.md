@@ -1,6 +1,6 @@
 # Heroku-with-Postgress-Database
 
-## The main code is in master branch: 
+## The main code is in master branch: https://github.com/ktank17/Heroku-with-Postgress-Database/tree/master 
 
 ![Screenshot (174)](https://user-images.githubusercontent.com/54612462/95144595-e7465100-072d-11eb-8041-89f7b6294a04.png)
 ![Screenshot (175)](https://user-images.githubusercontent.com/54612462/95144597-e7dee780-072d-11eb-9301-fd523151bebf.png)
